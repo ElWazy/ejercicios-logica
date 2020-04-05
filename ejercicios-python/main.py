@@ -26,6 +26,24 @@ while menu:
     elif opMenu == 4:
         import ejercicios.ejercicio4
         menu = False
+    elif opMenu == 5:
+        import ejercicios.ejercicio5
+        menu = False
+    elif opMenu == 7:
+        import ejercicios.ejercicio7
+        menu = False
+    elif opMenu == 9:
+        import ejercicios.ejercicio9
+        menu = False
+    elif opMenu == 11:
+        import ejercicios.ejercicio11
+        menu = False
+    elif opMenu == 13:
+        import ejercicios.ejercicio13
+        menu = False
+    elif opMenu == 17:
+        import ejercicios.ejercicio17
+        menu = False
     else:
         print('ingrese un numero valido')
         menu = False
