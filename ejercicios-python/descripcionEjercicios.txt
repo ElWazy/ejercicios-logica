@@ -1,0 +1,23 @@
+### MENU EJERCICIOS ###    
+    1. Dado un número entero, indique si este es par o no.
+    2. Dados dos números reales. Indique cuál es el mayor.
+    3. Desde un dispositivo de E/S se leen tres números. Indique cuál es el mayor
+    4. Crear programa en el que se almacenen 3 números en 3 variables (las que usted quiera).El programa debe decidir cuál es el mayor y es el menor de los 3.
+    5. Realizar programa para calcular la hipotenusa de un triángulo rectángulo, conocidos sus 2 catetos.
+    6. Generar un programa que calcule el área de un círculo, a partir de su radio.
+    7. Ingresar un numero por teclado e indique si está en el rango entre [5 y 9]
+    8. Escribir un algoritmo que lea un número comprendido entre el 1 y el 12, y que imprima por pantalla el mes al que corresponde dicho número.
+    9. Desde una computadora se leen tres números. Indique cuál de ellos es la suma de los otros dos
+    10. En un almacén se hace un 20% de descuento a los clientes cuya compra supere los 1000$ 
+        a. Mostrar -> ¿Cuál será la cantidad que pagará un cliente por su compra? 
+        b. Nota: Suponemos que el dinero de la compra es un dato que se lee desde un dispositivo de entrada
+    11. Escribir un programa que pida al usuario un número entero positivo y muestre todos los números impares desde 1 hasta ese número.
+    12. Generar programa para sumar 100 números ingresado por el usuario
+    13. Generar un programa que indique cuantas notas (N) quiere calcular y que luego determine el promedio de estas N notas.
+    14. Generar programa que muestre los números pares, comenzado desde 0 hasta 100.
+    15. Generar programa que muestre los números pares, comenzado desde 4 hasta 13
+    16. Generar un programa que evalué si un numero ingresado por el usuario es múltiplo de 3 
+        a. Nota: para desarrollar este ejercicio es útil la operación modulo
+    17. Generar un programa que muestre todos los múltiplos de 5, entre el rango 0 y 50.
+        a. Nota: para desarrollar este ejercicio es útil la operación modulo
+    18. Generar un programa que muestre los números primos hasta el infinito.
