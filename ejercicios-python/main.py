@@ -4,7 +4,7 @@ for x in f:
 
 while True:
     try:
-        opMenu = int(raw_input('\n\ningrese el numero del ejercicio que desea revisar: '))
+        opMenu = int(input('\n\ningrese el numero del ejercicio que desea revisar: '))
     except ValueError:
         print("Lo siento, no se puede procesar esa respuesta")
         continue
@@ -22,6 +22,9 @@ while menu:
         menu = False
     elif opMenu == 3:
         import ejercicios.ejercicio3
+        menu = False
+    elif opMenu == 4:
+        import ejercicios.ejercicio4
         menu = False
     else:
         print('ingrese un numero valido')
