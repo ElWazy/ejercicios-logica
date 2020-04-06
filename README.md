@@ -65,6 +65,6 @@ en este paso debes ingresar tus credenciales de github (para saber quien está r
 
 ## Concluyendo
 con estos pasos yo realizo mis operaciones diarias en cuanto a la programacion, esto me ha servido para volver de errores que suceden a menudo en proyectos largos, tambien de probar formas distintas de como programar un proyecto, en fin poder contribuir o utilizar codigo de las demas personas. Creo en la union de las personas y que si nos juntamos podemos crear cosas gigantes. Cualquier duda, trate de comunicarse conmigo por cualquiera de estas redes sociales.
- * [Discord]()
+ * [Discord](https://discord.gg/7vpas23)
  * [Twitter](https://twitter.com/ElCazy)
  * [Correo Electronico](santiago.fierro4@outlook.cl)
