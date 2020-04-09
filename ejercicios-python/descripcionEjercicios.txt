@@ -21,3 +21,50 @@
     17. Generar un programa que muestre todos los múltiplos de 5, entre el rango 0 y 50.
         a. Nota: para desarrollar este ejercicio es útil la operación modulo
     18. Generar un programa que muestre los números primos hasta el infinito.
+    19. Escriba un programa que entregue la parte decimal de un número real ingresado por el usuario. 
+    20. Escriba un programa que pregunte al usuario la hora actual t del reloj y un número entero de horas h, que indique qué hora marcará el reloj dentro de h horas.
+    21. Un alumno desea saber que nota necesita en el tercer certamen para aprobar un ramo. 
+        a. El promedio del ramo se calcula con la siguiente formula: 
+            a. notasPracticas = (nota1 + nota2 + nota3) / 3
+            b. notaFinal = notasPracticas * 0.7 + notaLaboratorio * 0.3
+        b. Escriba un programa que pregunte al usuario las notas de los dos primeros certámenes y la nota de laboratorio, y muestre la nota que necesita el alumno para aprobar el ramo con nota final 60. 
+    22. Escriba un programa que determine si el número entero ingresado por el usuario es par o no. 
+    23. Escriba un programa que pida dos números enteros y que calcule la división, indicando si la división es exacta o no. 
+    24. Escriba un programa que simule una calculadora básica, este puede realizar operación de suma, resta, multiplicación y división. El programa debe recibir como entrada 2 números reales y un operador, que puede ser +, -, * o /.  
+    25. Escriba un programa que determine si un carácter ingresado es letra, número, o ninguno de los dos. En caso que sea letra, determine si es mayúscula o minúscula. 
+    26. Escriba un programa que pida al usuario dos palabras, y que indique cuál de ellas es la más larga y por cuántas letras lo es. 
+        a. Recuerde que la función len entrega el largo de un string.
+    27. Cuando la Tierra completa una órbita alrededor del Sol, no han transcurrido exactamente 365 rotaciones sobre sí misma, sino un poco más.
+    Más precisamente, la diferencia es de más o menos un cuarto de día. Para evitar que las estaciones se desfasen con el calendario, 
+    el calendario juliano introdujo la regla de introducir un día adicional en los años divisibles por 4 (llamados bisiestos), para tomar en consideración los cuatro cuartos de día acumulados. 
+    Sin embargo, bajo esta regla sigue habiendo un desfase, que es de aproximadamente 3/400 de día. Para corregir este desfase, en el año 1582 el papa Gregorio XIII introdujo un nuevo calendario, 
+    en el que el último año de cada siglo dejaba de ser bisiesto, a no ser que fuera divisible por 400. 
+        a. Escriba un programa que indique si un año es bisiesto o no, teniendo en cuenta cuál era el calendario vigente en ese año.
+    28. Escriba un programa que muestre la tabla de multiplicar del 1 al 10 del número ingresado por el usuario.
+    29. Escriba un programa que genere todas las potencias de 2, desde la 0-ésima hasta la ingresada por el usuario.
+    30. Escriba un programa que pida al usuario dos números enteros, y luego entregue la suma de todos los números que están entre ellos. Por ejemplo, si los números son 1 y 7, debe entregar como resultado 2 + 3 + 4 + 5 + 6 = 20. 
+    31. Desarolle un programa para estimar el valor de π usando la siguiente suma infinita.
+        a. https://es.wikipedia.org/wiki/Serie_de_Leibniz
+        b. La entrada del programa debe ser un número entero n que indique cuántos términos de la suma se utilizará.
+    32. Escriba un programa que muestre una tabla de multiplicar como la siguiente.
+    1   2   3   4   5   6   7   8   9  10 
+    2   4   6   8  10  12  14  16  18  20 
+    3   6   9  12  15  18  21  24  27  30 
+    4   8  12  16  20  24  28  32  36  40 
+    5  10  15  20  25  30  35  40  45  50 
+    6  12  18  24  30  36  42  48  54  60 
+    7  14  21  28  35  42  49  56  63  70 
+    8  16  24  32  40  48  56  64  72  80 
+    9  18  27  36  45  54  63  72  81  90 
+    10 20  30  40  50  60  70  80  90 100 
+
+    Los números deben estar alineados a la derecha. 
+    33. Escriba un programa que muestre los números naturales menores o iguales que un número n determinado, que no sean múltiplos ni de 3 ni de 7. 
+    34. Escriba un programa que permita determinar el número mayor perteneciente a un conjunto de n números, donde tanto el valor de n como el de los números deben ser ingresados por el usuario. 
+    35. Escriba un programa que pida al usuario que ingrese varios valores enteros, que pueden ser positivos o negativos. Cuando se ingrese un cero, el programa debe terminar y mostrar un gráfico de cuántos valores positivos y negativos fueron ingresados
+    36. Desarrolle un programa que tenga la siguiente entrada: 
+        a. primero, el usuario ingresa un número entero n, que indica cuántas palabras ingresará a continuación; 
+        b. después el usuario ingresa n palabras. 
+    La salida del programa debe mostrar la palabra más larga y la más corta que fueron ingresadas por el usuario. 
+    37. Escriba un programa que muestre todas las combinaciones posibles al momento de lanzar dos dados de 6 caras.
+    38. Desarrolle un programa que dibuje un triángulo de Pascal, o sea, una disposición de números enteros tales que cada uno sea la suma de los dos que están por encima de él 

@@ -46,6 +46,7 @@ while menu:
         menu = False
     elif opMenu == 18:
         import ejercicios.ejercicio18
+        menu = False
     else:
         print('ingrese un numero valido')
         menu = False
