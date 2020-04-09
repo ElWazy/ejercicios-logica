@@ -1,10 +1,11 @@
+from ejercicios.etc import validador
 # Crear programa en el que se almacenen 3 números en 3 variables (las que usted quiera).
 # El programa debe decidir cuál es el mayor y es el menor de los 3.
 print('\n## EJERCICIO 4 ##\n')
 
-num1 = int(input('Ingrese un numero: '))
-num2 = int(input('Ingrese otro numero: '))
-num3 = int(input('Ingrese un numero mas: '))
+num1 = validador.validar('int', '1')
+num2 = validador.validar('int', '2')
+num3 = validador.validar('int', '3')
 
 numMayor = 0
 numMenor = 0

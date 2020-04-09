@@ -1,20 +1,16 @@
+from ejercicios.etc import validador
 f = open('./descripcionEjercicios.txt', 'r')
 for x in f:
     print(x)
 
-while True:
-    try:
-        opMenu = int(input('\n\ningrese el numero del ejercicio que desea revisar: '))
-    except ValueError:
-        print("Lo siento, no se puede procesar esa respuesta")
-        continue
-    else:
-        break
+opMenu = validador.validar('int', '\nDigite una opcion: ')
 
 menu = True
 
 while menu:
-    if opMenu == 1:
+    if opMenu == 0:
+        menu = False
+    elif opMenu == 1:
         import ejercicios.ejercicio1
         menu = False
     elif opMenu == 2:
