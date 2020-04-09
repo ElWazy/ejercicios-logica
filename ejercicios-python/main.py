@@ -1,4 +1,4 @@
-f = open('descripcionEjercicios.txt', 'r')
+f = open('./descripcionEjercicios.txt', 'r')
 for x in f:
     print(x)
 
@@ -44,6 +44,8 @@ while menu:
     elif opMenu == 17:
         import ejercicios.ejercicio17
         menu = False
+    elif opMenu == 18:
+        import ejercicios.ejercicio18
     else:
         print('ingrese un numero valido')
         menu = False
